@@ -1,0 +1,5 @@
+{
+	"ip":"BHAINKER.aternos.me",
+	"port": "53052",
+	"name": "Golu"
+}
